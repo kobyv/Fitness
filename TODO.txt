@@ -1,0 +1,8 @@
+*  Export pause/resume to GPX <trkseg>
+*  Heart rate in GPX export
+*  Weather conditions in GPX export if no name
+*  Detect bad heart rate readings
+*  GPX import, with TZ estimation from filename
+*  Export all workouts
+*  Set name and notes
+*  Faster Apple Health database import
